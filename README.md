@@ -2,7 +2,6 @@
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success)](https://karthigasreesuresh.github.io/InAmigos-Foundation-website/)
 
-
 A modern, responsive NGO awareness website developed for **InAmigos Foundation** to showcase its mission, social impact, community initiatives, volunteer opportunities, and ongoing projects through an engaging and professional digital experience.
 
 ## 🌐 Live Demo
@@ -14,17 +13,17 @@ https://karthigasreesuresh.github.io/InAmigos-Foundation-website/
 
 ## 📖 About the Project
 
-InAmigos Foundation is a Section 8 registered non-profit organization dedicated to creating meaningful social impact through education, community welfare, women empowerment, environmental sustainability, animal welfare, and skill development initiatives.
+This project was developed as a professional NGO awareness platform for **InAmigos Foundation**, a non-profit organization committed to creating meaningful social impact across India.
 
-This website was designed and developed as an NGO awareness platform to effectively communicate the foundation's mission, projects, achievements, and opportunities for volunteering and community participation.
+The website aims to educate visitors about the foundation's mission, initiatives, achievements, and opportunities for volunteering and community participation while providing an engaging and modern user experience.
 
 ---
 
 ## ✨ Features
 
 - Fully Responsive Design
-- Modern and Professional UI/UX
-- Dark & Light Mode Toggle
+- Modern & Professional UI/UX
+- Dark / Light Mode Toggle
 - Smooth Scrolling Navigation
 - Interactive Project Showcase
 - Social Impact Dashboard
@@ -35,29 +34,29 @@ This website was designed and developed as an NGO awareness platform to effectiv
 - Contact Form with Validation
 - Accessibility-Friendly Structure
 - SEO-Friendly Layout
-- Modern Animations and Micro-Interactions
+- Modern Animations & Micro-Interactions
 
 ---
 
 ## 🎯 Key Initiatives
 
 ### Project SEVA
-Providing food, clothing, and support to underprivileged communities.
+Supporting underprivileged communities through food distribution, clothing support, and community welfare initiatives.
 
 ### Project BACHPANSHALA
-Supporting underprivileged children through education, digital literacy, and life-skill development.
+Bridging educational gaps by supporting children through education, digital literacy, and life-skill development programs.
 
 ### Project JEEV
-Focused on animal welfare and supporting stray animals through volunteer-driven initiatives.
+Promoting animal welfare through feeding, care, and support for stray animals.
 
 ### Project UDAAN
-Empowering women through skill development, awareness programs, and financial literacy.
+Empowering women through skill development, awareness programs, and initiatives that promote financial independence.
 
 ### Project PRAKRITI
-Promoting environmental sustainability through tree plantation drives and conservation activities.
+Advocating environmental sustainability through tree plantation drives, conservation efforts, and eco-friendly practices.
 
 ### Project VIKAS
-Providing internship opportunities and skill development programs for students and young professionals.
+Providing internship opportunities and skill development programs for students and young professionals across multiple domains.
 
 ---
 
@@ -67,8 +66,9 @@ Providing internship opportunities and skill development programs for students a
 - 20,000+ Saplings Planted
 - 50+ Animals Supported Daily
 - 30,000+ Interns Trained
-- Community Development Initiatives Across India
-- Volunteer-Driven Social Impact Programs
+- Women Empowerment Programs
+- Educational Support Initiatives
+- Volunteer-Driven Community Development
 
 ---
 
@@ -83,59 +83,51 @@ Providing internship opportunities and skill development programs for students a
 
 ---
 
-## 🚀 Getting Started
+## 🎨 Design Highlights
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/KarthigaSreeSuresh/InAmigos-Foundation-website.git
-```
-
-### Open the Project
-
-```bash
-cd InAmigos-Foundation-website
-```
-
-### Run Locally
-
-Simply open `index.html` in your browser.
+- Premium NGO Awareness Experience
+- Mobile-First Responsive Design
+- Interactive Components
+- Clean Information Architecture
+- Accessibility-Oriented Development
+- Professional Visual Storytelling
+- Modern User Interface Patterns
 
 ---
 
-## 📬 Contact Information
+## 📬 Organization Contact
 
-### InAmigos Foundation
+**InAmigos Foundation**
 
-**Address**  
-Ward No. 5, Gram Post, Sipat Ujwal Nagar,  
+📍 Ward No. 5, Gram Post, Sipat Ujwal Nagar,  
 Bilaspur, Chhattisgarh – 495555
 
-**Phone**  
-+91 626 730 9902
+📞 +91 626 730 9902
 
-**Email**  
-support@inamigosfoundation.org.in
+📧 support@inamigosfoundation.org.in
 
-**Official Website**  
-https://inamigosfoundation.org.in
+🌐 https://inamigosfoundation.org.in
 
 ---
 
 ## 🙌 Acknowledgements
 
-This project was created as an NGO Awareness Website to promote the initiatives and social impact of InAmigos Foundation while encouraging volunteering, community participation, and social responsibility.
+Special thanks to **InAmigos Foundation** for their inspiring initiatives in community welfare, education, women empowerment, environmental sustainability, animal welfare, and skill development.
+
+This website was developed to support awareness and engagement around the foundation's mission and impact.
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
 
 ---
 
-### Developed By
+## 👨‍💻 Developed By
 
 **Karthiga Sree Suresh**
 
-Frontend Developer | Web Development Enthusiast
+Frontend Developer • Web Development Enthusiast
+
+GitHub: https://github.com/KarthigaSreeSuresh
