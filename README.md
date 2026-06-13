@@ -1,10 +1,7 @@
 # InAmigos Foundation – Uniting Minds For Change
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success)](https://karthigasreesuresh.github.io/InAmigos-Foundation-website/)
-[![HTML5](https://img.shields.io/badge/HTML5-Markup-orange)]()
-[![CSS3](https://img.shields.io/badge/CSS3-Styling-blue)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-Interactive-yellow)]()
-[![MIT License](https://img.shields.io/badge/License-MIT-green)]()
+
 
 A modern, responsive NGO awareness website developed for **InAmigos Foundation** to showcase its mission, social impact, community initiatives, volunteer opportunities, and ongoing projects through an engaging and professional digital experience.
 
